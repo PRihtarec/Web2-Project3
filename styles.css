@@ -1,0 +1,17 @@
+html, body {
+height: 100%;
+margin: 0;
+background: #000; 
+display: flex;
+align-items: center;
+justify-content: center;
+font-family: Helvetica, Verdana;
+}
+
+#gameCanvas {
+background: #000; 
+display: block;
+border: 5px solid #fff; 
+width: 800px; 
+height: 600px;
+}
