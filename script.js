@@ -137,7 +137,7 @@ function draw() {
     ctx.textBaseline = 'middle';
     ctx.fillStyle = 'yellow';
     ctx.font = 'bold 40px Helvetica, Verdana, sans-serif';
-    ctx.fillText('YOU WON!', CANVAS_WIDTH / 2 + BORDER_WIDTH, CANVAS_HEIGHT / 2 - 20 + BORDER_WIDTH);
+    ctx.fillText('YOU WON!', CANVAS_WIDTH / 2 + BORDER_WIDTH, CANVAS_HEIGHT / 2 + BORDER_WIDTH);
   }
 }
 
